@@ -6,6 +6,8 @@
 //  Copyright © 2020 Adam Jackrel. All rights reserved.
 //
 
+//GREAT DESIGN. LOVE THE COLOR CHOICES. -ADAM
+
 import UIKit
 
 import AVFoundation
